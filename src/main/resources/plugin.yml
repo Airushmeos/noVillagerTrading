@@ -1,0 +1,9 @@
+name: noVillagerTrading
+description: $description
+version: '${version}'
+
+main: at.Airushmeos.noVillagerTrading.NoVillagerTrading
+api-version: '26.1.2'
+load: POSTWORLD
+
+authors: [ Airushmeos ]
